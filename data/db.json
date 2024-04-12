@@ -1,0 +1,16 @@
+{
+  "projects": [
+    {
+      "1d": 1,
+      "title": "Create new homepage banner",
+      "details": "Lorem ipsum",
+      "completed": false
+    },
+    {
+      "1d": 2,
+      "title": "Make marketing email",
+      "details": "Boze co za cymbal",
+      "completed": true
+    }
+  ]
+}
