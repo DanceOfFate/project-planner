@@ -1,15 +1,15 @@
 {
   "projects": [
     {
-      "1d": 1,
-      "title": "Create new homepage banner",
-      "details": "Lorem ipsum",
-      "completed": false
+      "id": "f28c",
+      "title": "Projekt",
+      "details": "dodajmy projekta",
+      "completed": true
     },
     {
-      "1d": 2,
-      "title": "Make marketing email",
-      "details": "Boze co za cymbal",
+      "id": "decc",
+      "title": "projekt3",
+      "details": "A co gówno co",
       "completed": true
     }
   ]
