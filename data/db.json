@@ -4,12 +4,18 @@
       "id": "f28c",
       "title": "Projekt",
       "details": "dodajmy projekta",
-      "completed": true
+      "completed": false
     },
     {
       "id": "decc",
       "title": "projekt 0",
       "details": "A co gówno co. Wypierdzielaj pan stad",
+      "completed": true
+    },
+    {
+      "id": "6b8a",
+      "title": "my new project",
+      "details": "jakis tam projects",
       "completed": true
     }
   ]
